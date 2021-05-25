@@ -1,0 +1,27 @@
+{"entries": [
+    {
+        "amount": 111,
+        "name": "n1",
+        "category": "c1"
+    },
+    {
+        "amount": -111,
+        "name": "n2",
+        "category": "c2"
+    },
+    {
+        "amount": -200,
+        "name": "n4",
+        "category": "c4"
+    },
+    {
+        "amount": 40,
+        "name": "n5",
+        "category": "c5"
+    },
+    {
+        "amount": 80,
+        "name": "n3",
+        "category": "c3"
+    }
+]}

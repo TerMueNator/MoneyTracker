@@ -1,0 +1,12 @@
+{"entries": [
+    {
+        "amount": 100,
+        "name": "n1",
+        "category": "c1"
+    },
+    {
+        "amount": -100,
+        "name": "n2",
+        "category": "c2"
+    }
+]}
